@@ -1,3 +1,6 @@
+echo "Ping/Dig Version #0.0.1"
+echo "";
+
 echo "PING";
 echo "";
 echo "bislinks.com";
