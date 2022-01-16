@@ -1,4 +1,4 @@
-echo "Ping/Dig Version #0.0.3";
+echo "Ping/Dig Version #0.0.4";
 echo "To be used as 'custom command in Virtualmin : Webmin -> Tools -> Custom Commands': just change domain name!"
 echo "";
 
