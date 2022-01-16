@@ -1,4 +1,4 @@
-echo "Ping/Dig Version #0.0.1"
+echo "Ping/Dig Version #0.0.2";
 echo "";
 
 echo "PING";
