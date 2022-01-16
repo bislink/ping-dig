@@ -1,4 +1,4 @@
-echo "Ping/Dig Version #0.0.4";
+echo "Ping/Dig Version #0.0.5";
 echo "To be used as 'custom command in Virtualmin : Webmin -> Tools -> Custom Commands': just change domain name!"
 echo "";
 
@@ -57,6 +57,9 @@ dig +short @ns1.bislinks.com bislinks.com soa;
 echo "";
 echo "@ns3 SOA";
 dig +short @ns3.bislinks.com bislinks.com soa;
+echo "";
+echo "@ns4 SOA";
+dig +short @ns4.bislinks.com bislinks.com soa;
 echo "";
 echo "@ns5 SOA";
 dig +short @ns5.bislinks.com bislinks.com soa;
