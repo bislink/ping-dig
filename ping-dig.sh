@@ -1,4 +1,4 @@
-echo "Ping/Dig Version #0.0.8";
+echo "Ping/Dig Version #0.0.9";
 echo "";
 
 DOMAIN="bislinks.com";
