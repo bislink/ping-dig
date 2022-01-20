@@ -1,9 +1,8 @@
-echo "Ping/Dig Version #0.0.6";
+echo "Ping/Dig Version #0.0.7";
 echo "To be used as 'custom command in Virtualmin : Webmin -> Tools -> Custom Commands': just change domain name!"
 echo "";
 
-# set domain name 
-DOMAIN="bislinks.com"
+DOMAIN="bislinks.com";
 
 echo "PING";
 echo "";
